@@ -1,0 +1,14 @@
+{
+  "name": "keshav-module-1-assignment",
+  "version": "1.0.0",
+  "description": "Module 1 Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keshav.kishlay@mindtree.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
